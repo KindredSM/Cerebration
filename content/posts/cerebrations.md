@@ -5,4 +5,4 @@ draft: false
 featured_image: "/images/marcus.jpeg"
 ---
 
-This is my first post.
+This is my first post on this blog.
